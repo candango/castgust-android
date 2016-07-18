@@ -27,8 +27,8 @@ public class ActivityMain extends Activity {
     private static final int port = 5222;
 
 
-    private String userName = "benhurmarques";
-    private String password = "emnconde448";
+    private String userName = "username";
+    private String password = "password";
 
     private ChatManager chatManager;
     private Chat newChat;
